@@ -31,3 +31,9 @@ Console and Gui Based Hangman game.
   * GUI
     * HangmanGui.java
     * HangmanWordList.java
+    
+ ## Hangman in Action
+ 
+  ![Console_Hangman](https://image.ibb.co/mSXf9R/Hangman_Gui_Working.png)
+  
+  ![GUI_Hangman](https://image.ibb.co/dWfYUR/Hangman_Working.png)
