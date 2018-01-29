@@ -16,12 +16,12 @@ Console and Gui Based Hangman game.
 2. Create a StringBuffer and append dashes '-' in it equal to the size of the random word choosen.
 
 3. Take valid guess Input from the user and check it with the randomWord and do the following :
- * If Guess was right then update the StringBuffer with correct input/guess.
- * If Guess was incorrect then decremement the number of guesses which user is allowed (total 8).
+   * If Guess was right then update the StringBuffer with correct input/guess.
+   * If Guess was incorrect then decremement the number of guesses which user is allowed (total 8).
 
 4. Game ends when :
- * User loses the game if the number of guesses are equal to 0. (i.e he/she used all the allowed 8 guesses)
- * User Wins the game if there are no more dashes '-' left in String Buffer.
+   * User loses the game if the number of guesses are equal to 0. (i.e he/she used all the allowed 8 guesses)
+   * User Wins the game if there are no more dashes '-' left in String Buffer.
  
  ## Files (src)
  
